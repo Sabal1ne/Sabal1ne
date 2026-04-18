@@ -1,45 +1,51 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+```
++----------------------------------------------------------+
+|                   SABAL1NE@GITHUB:~$                     |
++----------------------------------------------------------+
 
-### shotout to [flowseal](https://github.com/Flowseal)
-# 👋 Hi, I’m Nikita Suprunenko
+$ whoami
+> Nikita Suprunenko  //  Sabal1ne
+> Location : Saint-Petersburg, RU
+> Role     : Mechatronics Technician + Software Engineering student
+> Track    : Cyber-Physical Systems (2nd year)
 
-**Software Engineering student** (Cyber-Physical Systems)  
-with a **Mechatronics Technician** background.
+$ cat skills.cfg
++----------------------------------------------------------+
+|  SKILL              LEVEL                       SCORE   |
++----------------------------------------------------------+
+|  C++           [==========>         ]  65%              |
+|  Python        [=========>          ]  60%              |
+|  STM32         [========>           ]  55%              |
+|  ESP32         [========>           ]  55%              |
+|  Arduino       [===========>        ]  70%              |
+|  Git           [==========>         ]  65%              |
+|  Linux         [======>             ]  40%              |
+|  TUI (Textual) [=======>            ]  45%              |
++----------------------------------------------------------+
 
-I understand **hardware & software** — from circuits to C++.
+$ cat stack.txt
+> Hardware : STM32  |  ESP32  |  Arduino  |  circuit design
+> Software : C++  |  Python  |  Git  |  Linux  |  Textual (TUI)
+> Toolchain: GCC  |  PlatformIO  |  ESKD  |  Compass 3D
 
----
+$ cat looking_for.txt
++----------------------------------------------------------+
+|  STATUS: OPEN TO WORK                                    |
++----------------------------------------------------------+
+|  - Freelance                                             |
+|  - Internship                                            |
+|  - Part-time                                             |
+|                                                          |
+|  Domains: Embedded  /  C++  /  Python automation         |
++----------------------------------------------------------+
 
-## 🔧 What I do
+$ ./contact --list
+> Telegram : https://t.me/sabal1ne   (@sabal1ne)
+> GitHub   : https://github.com/Sabal1ne
 
-- C++ / Python  
-- Arduino • STM32 • ESP32  
-- Git • Linux (basic)  
-- Circuit design • ESKD • Compass 3D  
-- TUI apps (Textual)
+$ --help
+  Usage: type 'contact' to reach out.
+  Need someone who handles both soldering iron and code? -> ping me.
 
----
-
-## 📌 Looking for
-
-Freelance • Internship • Part-time  
-**Embedded** / **C++** / **Python** (automation, TUI)
-
----
-
-## 📫 Contact
-
-Telegram: [@sabal1ne](https://t.me/sabal1ne)
-
----
-
-## 🤝 Open for work
-
-Need someone who can handle both **soldering iron and code**?  
-Let’s talk.
+_
+```
