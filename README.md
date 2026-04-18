@@ -62,10 +62,7 @@ $ ls -la ~/stack/
   drwxr-xr-x  CAD/        KiCad  │  circuit schematics     │  3D models
 
 $ cat /var/log/projects.log
-  [2024] ░ TUI serial monitor for embedded debugging (Python/Textual)
-  [2024] ░ STM32 motor controller with PID loop (C++)
-  [2023] ░ ESP32 wireless sensor node + MQTT dashboard (C++/Python)
-  [2023] ░ Custom Arduino shield + firmware for lab bench PSU
+
 
 $ cat ~/looking_for.txt
 ╔══════════════════════════════════════════════════════════╗
